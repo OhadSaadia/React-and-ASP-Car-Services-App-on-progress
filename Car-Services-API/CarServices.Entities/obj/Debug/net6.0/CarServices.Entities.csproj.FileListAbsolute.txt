@@ -1,0 +1,14 @@
+C:\Users\Ohad Saadia\source\repos\Car-Services-API\CarServices.Entities\bin\Debug\net6.0\CarServices.Entities.deps.json
+C:\Users\Ohad Saadia\source\repos\Car-Services-API\CarServices.Entities\bin\Debug\net6.0\CarServices.Entities.runtimeconfig.json
+C:\Users\Ohad Saadia\source\repos\Car-Services-API\CarServices.Entities\bin\Debug\net6.0\CarServices.Entities.dll
+C:\Users\Ohad Saadia\source\repos\Car-Services-API\CarServices.Entities\bin\Debug\net6.0\CarServices.Entities.pdb
+C:\Users\Ohad Saadia\source\repos\Car-Services-API\CarServices.Entities\obj\Debug\net6.0\CarServices.Entities.csproj.AssemblyReference.cache
+C:\Users\Ohad Saadia\source\repos\Car-Services-API\CarServices.Entities\obj\Debug\net6.0\CarServices.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ohad Saadia\source\repos\Car-Services-API\CarServices.Entities\obj\Debug\net6.0\CarServices.Entities.AssemblyInfoInputs.cache
+C:\Users\Ohad Saadia\source\repos\Car-Services-API\CarServices.Entities\obj\Debug\net6.0\CarServices.Entities.AssemblyInfo.cs
+C:\Users\Ohad Saadia\source\repos\Car-Services-API\CarServices.Entities\obj\Debug\net6.0\CarServices.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ohad Saadia\source\repos\Car-Services-API\CarServices.Entities\obj\Debug\net6.0\CarServices.Entities.dll
+C:\Users\Ohad Saadia\source\repos\Car-Services-API\CarServices.Entities\obj\Debug\net6.0\refint\CarServices.Entities.dll
+C:\Users\Ohad Saadia\source\repos\Car-Services-API\CarServices.Entities\obj\Debug\net6.0\CarServices.Entities.pdb
+C:\Users\Ohad Saadia\source\repos\Car-Services-API\CarServices.Entities\obj\Debug\net6.0\CarServices.Entities.genruntimeconfig.cache
+C:\Users\Ohad Saadia\source\repos\Car-Services-API\CarServices.Entities\obj\Debug\net6.0\ref\CarServices.Entities.dll

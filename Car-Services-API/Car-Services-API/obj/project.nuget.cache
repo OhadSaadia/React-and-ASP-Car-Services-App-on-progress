@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jcLyPAyZ1W2kOP4M4Fck7kykskCqfpYThYPePJh8LrzkzKe1EYgWx5GHrZbZuYlCUHdoBPCWBCXppPhJJ3Hpog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ohad Saadia\\source\\repos\\Car-Services-API\\Car-Services-API\\Car-Services-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ohad Saadia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ohad Saadia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ohad Saadia\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ohad Saadia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ohad Saadia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ohad Saadia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
